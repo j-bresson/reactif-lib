@@ -7,3 +7,5 @@ Reactive programming in OM is an intermediate model for visual programming inher
 The OM reactive model is implemented as a native feature in OM >= 6.9.
 
 See also: http://repmus.ircam.fr/openmusic/reactive
+
+OpenMusic: https://github.com/openmusic-project/OM6
